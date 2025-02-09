@@ -16,7 +16,7 @@ class ArmyEmergency extends StatelessWidget {
           borderRadius: BorderRadius.circular(20),
         ),
         child: InkWell(
-          onTap: () => _callNumber('1717'),
+          onTap: () => _callNumber('0000'),
           child: Container(
             height: 180,
             width: MediaQuery.of(context).size.width * 0.7,
